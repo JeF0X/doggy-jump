@@ -1,0 +1,1759 @@
+fileFormatVersion: 2
+guid: f25b3d84c3897d64e80c08ee731198f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6133865701025548017
+    second: bush1.png
+  - first:
+      213: 8105556263207425487
+    second: bush2.png
+  - first:
+      213: 750025718758200740
+    second: bush3.png
+  - first:
+      213: -1859018144214107816
+    second: bush4.png
+  - first:
+      213: -4177992718895530261
+    second: bushAlt1.png
+  - first:
+      213: 4551007974544961949
+    second: bushAlt2.png
+  - first:
+      213: 7771839685424822894
+    second: bushAlt3.png
+  - first:
+      213: -6502774522836851085
+    second: bushAlt4.png
+  - first:
+      213: -4489730285824318512
+    second: bushOrange1.png
+  - first:
+      213: 5133482469396534263
+    second: bushOrange2.png
+  - first:
+      213: -6862909376337291694
+    second: bushOrange3.png
+  - first:
+      213: 9193944890420211737
+    second: bushOrange4.png
+  - first:
+      213: 2883330177885316042
+    second: cactus1.png
+  - first:
+      213: -4590456471564081835
+    second: cactus2.png
+  - first:
+      213: 1442607450045358033
+    second: cactus3.png
+  - first:
+      213: 3469610168024287474
+    second: castleSmall.png
+  - first:
+      213: -4299508517857704916
+    second: castleSmallAlt.png
+  - first:
+      213: -4528789172325246433
+    second: castleWall.png
+  - first:
+      213: 2235611602931879018
+    second: castleWallAlt.png
+  - first:
+      213: 6202344001185684362
+    second: cloud1.png
+  - first:
+      213: 914164878947841050
+    second: cloud2.png
+  - first:
+      213: 290330004407023755
+    second: cloud3.png
+  - first:
+      213: 2751529205362643826
+    second: cloud4.png
+  - first:
+      213: 5373796700646598274
+    second: cloud5.png
+  - first:
+      213: 3239301454640685548
+    second: cloud6.png
+  - first:
+      213: -2989991663337292503
+    second: cloud7.png
+  - first:
+      213: -3312067440186272016
+    second: cloud8.png
+  - first:
+      213: 2642083241014655598
+    second: fence.png
+  - first:
+      213: -2375112631088405903
+    second: fenceIron.png
+  - first:
+      213: -5223629536483424805
+    second: house1.png
+  - first:
+      213: -4964666851462329772
+    second: house2.png
+  - first:
+      213: -4620053667646455424
+    second: houseAlt1.png
+  - first:
+      213: 6006346931830120318
+    second: houseAlt2.png
+  - first:
+      213: 5577826435411606363
+    second: houseSmall1.png
+  - first:
+      213: -6225267514740390999
+    second: houseSmall2.png
+  - first:
+      213: -6168493136011853250
+    second: houseSmallAlt1.png
+  - first:
+      213: -3286537467708005621
+    second: houseSmallAlt2.png
+  - first:
+      213: -3938751439979416402
+    second: moon.png
+  - first:
+      213: 269465208104878986
+    second: moonFull.png
+  - first:
+      213: -2023807887888153026
+    second: pyramid.png
+  - first:
+      213: 2301808304439272816
+    second: pyramidMayan.png
+  - first:
+      213: 4586899948978756177
+    second: sun.png
+  - first:
+      213: -2466428305116415255
+    second: tower.png
+  - first:
+      213: 461113604252753299
+    second: towerAlt.png
+  - first:
+      213: -1269713073017794403
+    second: towerSmall.png
+  - first:
+      213: -929784558573566328
+    second: towerSmallAlt.png
+  - first:
+      213: -8802668014518981791
+    second: tree.png
+  - first:
+      213: -5224024947828809184
+    second: treeDead.png
+  - first:
+      213: 7083875233382097191
+    second: treeFrozen.png
+  - first:
+      213: -500246552847505722
+    second: treeLong.png
+  - first:
+      213: -3555867143392570579
+    second: treeLongFrozen.png
+  - first:
+      213: -6258889517035451269
+    second: treeLongOrange.png
+  - first:
+      213: -2008756402855206694
+    second: treeLongSnow.png
+  - first:
+      213: -1660763613422745
+    second: treeOrange.png
+  - first:
+      213: 4206301484141644234
+    second: treePalm.png
+  - first:
+      213: -2236530106402016532
+    second: treePine.png
+  - first:
+      213: -8796131225420803837
+    second: treePineFrozen.png
+  - first:
+      213: -5222845155420222201
+    second: treePineOrange.png
+  - first:
+      213: 111970929218431062
+    second: treePineSnow.png
+  - first:
+      213: -7897512477493605135
+    second: treeSmall_green1.png
+  - first:
+      213: 8135174602913358699
+    second: treeSmall_green2.png
+  - first:
+      213: 4235900599425809280
+    second: treeSmall_green3.png
+  - first:
+      213: -2578667442371285476
+    second: treeSmall_greenAlt1.png
+  - first:
+      213: -5872291804829272288
+    second: treeSmall_greenAlt2.png
+  - first:
+      213: -7781645390971795586
+    second: treeSmall_greenAlt3.png
+  - first:
+      213: -2629590893626233558
+    second: treeSmall_orange1.png
+  - first:
+      213: 9188168655169104025
+    second: treeSmall_orange2.png
+  - first:
+      213: 7249415062285982142
+    second: treeSmall_orange3.png
+  - first:
+      213: -3540698404501588447
+    second: treeSnow.png
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bush1.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1190
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33b2fae444a09409271cb2d8bbb8f7
+      internalID: 6133865701025548017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2.png
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1708
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adc3f85d43bb074a9f2300c14e968c2
+      internalID: 8105556263207425487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush3.png
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 723
+        width: 117
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207777f0dd7fa3c4d9044e892853669b
+      internalID: 750025718758200740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush4.png
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1315
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e690cd25a47c5140a1d945573aa769b
+      internalID: -1859018144214107816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushAlt1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 282
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6dac9f8ee39a543bb20b230c7b6093
+      internalID: -4177992718895530261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushAlt2.png
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1006
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea06342c140394893b8e657b65b29a
+      internalID: 4551007974544961949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushAlt3.png
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 733
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f2eb0e38da1a4cafddee57965b1c0
+      internalID: 7771839685424822894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushAlt4.png
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1311
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c0e253cbc0d3478785640d16bed03
+      internalID: -6502774522836851085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushOrange1.png
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 709
+        width: 248
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1f7dab2fab19248acddad4dc90bfe2
+      internalID: -4489730285824318512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushOrange2.png
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1315
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59d484d9dce4134aa8247d910d60c37
+      internalID: 5133482469396534263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushOrange3.png
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1796
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e186a10d003ca6488d8428fdb263e8b
+      internalID: -6862909376337291694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushOrange4.png
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1138
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0348dfad4ce9b4c4498989b9e79e8da2
+      internalID: 9193944890420211737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus1.png
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 838
+        width: 192
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd857049d9d382f42a01febf62317f12
+      internalID: 2883330177885316042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus2.png
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 58
+        width: 141
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bff1d707ddce3b4899af7e9c32e799b
+      internalID: -4590456471564081835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus3.png
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1736
+        width: 136
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71a29de8424ab24898dd3d98389176c
+      internalID: 1442607450045358033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castleSmall.png
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1972
+        width: 216
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f443c361c2c84bd45bbd261de45e59de
+      internalID: 3469610168024287474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castleSmallAlt.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1730
+        width: 216
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c25e446e167c1459cba5fb4ae1f855
+      internalID: -4299508517857704916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castleWall.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 14
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6f0f05c801e4842b002ab9eeee7d44
+      internalID: -4528789172325246433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castleWallAlt.png
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1116
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59931552c3cb6234e81f6377e6d83a1e
+      internalID: 2235611602931879018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud1.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1900
+        width: 406
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4bcef8a7e3904c831c205b293aa09
+      internalID: 6202344001185684362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud2.png
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 39
+        width: 392
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017db6cef68e29c4c90dc16d2a21c48e
+      internalID: 914164878947841050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 432
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d7dcc0344e17d40a496aeb5d6de04c
+      internalID: 290330004407023755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud4.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 500
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b8e229a81ed6548aa6fa1317409363
+      internalID: 2751529205362643826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud5.png
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 406
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fcb2a79dfa3574690d1e8a3a3d9219
+      internalID: 5373796700646598274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud6.png
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 996
+        width: 392
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7491172fd4a9e241a4ead727820bf29
+      internalID: 3239301454640685548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud7.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 432
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75d30e48d291bd4b898f95d3ff58400
+      internalID: -2989991663337292503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud8.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 500
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dee1f7a5d38d547844ecfd0a448d70
+      internalID: -3312067440186272016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence.png
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 841
+        width: 207
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a82d4fe221c9409a018ae33e77698
+      internalID: 2642083241014655598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceIron.png
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1900
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf8a9b35f54fc47bee0feda9421055
+      internalID: -2375112631088405903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house1.png
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 242
+        width: 415
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca10e29ce1caa45acdae9d6bf7f477
+      internalID: -5223629536483424805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 562
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a901b8c6bccb1a4fa578fbd06264413
+      internalID: -4964666851462329772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseAlt1.png
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 548
+        width: 335
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eacfbda8f7e7fe40bc75ba76fb40580
+      internalID: -4620053667646455424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseAlt2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 482
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c21f9ea26832974d9cf3f3b642c9f73
+      internalID: 6006346931830120318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseSmall1.png
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 896
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31447cbfe4658d142a0d1836e971f3cb
+      internalID: 5577826435411606363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseSmall2.png
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 2002
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89ed74278899c47b5f5d23db785c0a
+      internalID: -6225267514740390999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseSmallAlt1.png
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1208
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f2bda941eedaf409b0635e8e5e3e2b
+      internalID: -6168493136011853250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseSmallAlt2.png
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 28
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5539ecb3a7b34a34282caa9d84e43acd
+      internalID: -3286537467708005621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon.png
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 168
+        width: 156
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6221e9820cc0687479febd25aa9f90f2
+      internalID: -3938751439979416402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moonFull.png
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 204
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059d79f2abcce3041b63032dfdb87d98
+      internalID: 269465208104878986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pyramid.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1308
+        width: 408
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4150eec7a57da4c42812d82c77550960
+      internalID: -2023807887888153026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pyramidMayan.png
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 827
+        width: 408
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae02a0343437e41b6fb62f9725306f
+      internalID: 2301808304439272816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sun.png
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 36
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfcce6b244c9a348a5a484ed722abc8
+      internalID: 4586899948978756177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower.png
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1022
+        width: 146
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387997200ec9c0a4fa88d6163080db06
+      internalID: -2466428305116415255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towerAlt.png
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1512
+        width: 146
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664815069f82e443908fda2418cde8f
+      internalID: 461113604252753299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towerSmall.png
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 553
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea651574d69d4146864534acf4a9ae9
+      internalID: -1269713073017794403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towerSmallAlt.png
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 936
+        width: 76
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc038026aa5e1c4d8c5b2741b46cc13
+      internalID: -929784558573566328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1734
+        width: 188
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970e255881795b147a67ef903ca5e7d9
+      internalID: -8802668014518981791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeDead.png
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1407
+        width: 343
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c044345d5b30c814bb726a437ad37be9
+      internalID: -5224024947828809184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeFrozen.png
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 372
+        width: 188
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75016cdd859e434eb5a6da275b2457c
+      internalID: 7083875233382097191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeLong.png
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1236
+        width: 163
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11489a332dbb13e4594375ca8c5d780c
+      internalID: -500246552847505722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeLongFrozen.png
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1304
+        width: 163
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752d2f5862a949140be103133b43577f
+      internalID: -3555867143392570579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeLongOrange.png
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 328
+        width: 163
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89613c87fcd83d741948b8f04f1fbf64
+      internalID: -6258889517035451269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeLongSnow.png
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 826
+        width: 163
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df2f79c4734ab41a186547e81e8bbc
+      internalID: -2008756402855206694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeOrange.png
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1116
+        width: 202
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6aadb8c4f54f349b44a06b4050d05d
+      internalID: -1660763613422745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treePalm.png
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 351
+        width: 400
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923d18637c4f8c45bf4c3abc578cc92
+      internalID: 4206301484141644234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treePine.png
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 40
+        width: 212
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88590c4052dc70d4bae6e9e8667f1e31
+      internalID: -2236530106402016532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treePineFrozen.png
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1458
+        width: 212
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5e3f866e65644c9f90756a2e69940
+      internalID: -8796131225420803837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treePineOrange.png
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1634
+        width: 212
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a91b9bb6d62604182af7e6ed8e2a1c
+      internalID: -5222845155420222201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treePineSnow.png
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 54
+        width: 212
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44c3299b6a9f424caa5827324bf1f21
+      internalID: 111970929218431062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_green1.png
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 548
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6454e2467e978489436e8f6ea69f03
+      internalID: -7897512477493605135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_green2.png
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 756
+        width: 46
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73a74bc439036243911dd93f14d9ce7
+      internalID: 8135174602913358699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_green3.png
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2044
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b180f1d96a92ef4095e050a7d242dc3
+      internalID: 4235900599425809280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_greenAlt1.png
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1150
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f2f0f6e22354244a62209e842746dc
+      internalID: -2578667442371285476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_greenAlt2.png
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 892
+        width: 46
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0569f1a7ed3fa744ebdda0b000c7855d
+      internalID: -5872291804829272288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_greenAlt3.png
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 838
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aef1268391b3547a95c4cf80d4ebdd
+      internalID: -7781645390971795586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_orange1.png
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 462
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecd2b9afcf6e4d44807673fde61c425
+      internalID: -2629590893626233558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_orange2.png
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 634
+        width: 46
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69123eb5e30b4644883bcf493f531f4c
+      internalID: 9188168655169104025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSmall_orange3.png
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1309
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805c126d22acfbd40b49ac03a47e207e
+      internalID: 7249415062285982142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeSnow.png
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 996
+        width: 202
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c16884294053e4c9d58dce5111f43b
+      internalID: -3540698404501588447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
